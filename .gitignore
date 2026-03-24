@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# YOLO generated files
+yolo_detection_*.mp4
+yolo_screenshot_*.jpg
+
+# Model files (optional - uncomment if you don't want to include models)
+# *.pt
+# *.pth
+# *.weights
+
+# OS
+.DS_Store
+Thumbs.db
